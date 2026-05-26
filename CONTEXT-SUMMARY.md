@@ -1,6 +1,6 @@
 # Glaizr Context Summary
 
-**Last synced:** 2026-05-26 (nightly auto-sync)
+**Last synced:** 2026-05-27 (nightly auto-sync)
 
 **Project:** AI-powered takeoff + site-measurement + workflow product for the Australian glass / glazier / shower screen industry. Turns site-measure data into manufacturing-ready output and slashes rework error rates (industry avg 4-20%; splashbacks 18-20%).
 
