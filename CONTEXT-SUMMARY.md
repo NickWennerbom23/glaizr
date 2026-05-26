@@ -7,7 +7,7 @@
 **Key People:**
 - Nick Wennerbom (Owner, network-builder, domain expert)
 - Courtney Smith (silent partner via AltZero)
-- Narvan (AltZero technical founder)
+- Navan Tirupathi (AltZero technical founder)
 - Dave Dhanda (actively building/tuning out-of-hours)
 
 **Commercial Model (locked May 2026):**
@@ -21,7 +21,7 @@
 
 **Current Phase:** Cohort acquisition. 8-week MVP build kicks off once cohort is closed (deadline 30 June 2026).
 
-**Key Partner — Onyx Showerscreens (Brisbane): CONFIRMED STRONG FIT.** $200-300K/month revenue, 80+ screens/month, 6-7% mismeasure rate (18-20% on splashbacks). Contacts: Bella + Mike. Tech stack includes ServiceM8, AroFlo (3yr deal locked), Xero, GroundPlan, Pivotech.
+**Key Partner — Onyx Showerscreens (Brisbane): CONFIRMED STRONG FIT.** $200-300K/month revenue, 80+ screens/month, 6-7% mismeasure rate (18-20% on splashbacks). Contacts: Bella (recovering from surgery) + Mike. Tech stack: ServiceM8, AroFlo (3yr deal locked), Xero, GroundPlan, Pivotech.
 
 **Next Milestones:**
 - **11 June 2026:** Nick's Brisbane in-person follow-up with Onyx
