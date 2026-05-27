@@ -1,46 +1,49 @@
 # Glaizr Context Summary
 
-**Last synced:** 2026-05-27 (nightly auto-sync)
+**Project:** AI-powered takeoff + site-measurement for Australian glass/glazier/shower screen industry
 
-**Project:** AI-powered takeoff + site-measurement + workflow product for the Australian glass / glazier / shower screen industry. Turns site-measure data into manufacturing-ready output and slashes rework error rates (industry avg 4-20%; splashbacks 18-20%).
+**Key People:** 
+- Nick Wennerbom (Owner, network-builder)
+- Courtney Smith (Silent partner via AltZero)
+- Dave Dhanda (Actively building/tuning)
+- Narvan (AltZero technical founder)
 
-**Key People:**
-- Nick Wennerbom (Owner, network-builder, domain expert)
-- Courtney Smith (silent partner via AltZero)
-- Navan Tirupathi (AltZero technical founder)
-- Dave Dhanda (actively building/tuning out-of-hours)
-
-**Commercial Model (locked May 2026):**
+**Commercial Model:** 
 - Onboarding fee: $12,500 per cohort partner
-- Annual maintenance: $6,500 per cohort partner per year
-- Per-job token fee: $5 per job (covers AI usage)
-- Target customer: $2M+ revenue glass/shower screen companies, service-first (not price-driven)
-- Cohort size: 10 companies co-developing over 6 months — one per region for competitive edge
-- Value-for-value framing: Glaizr earns a share of rework savings (~$850/rework cost avoided)
-- Not pure SaaS — follows AltZero playbook validated on Choice
+- Annual maintenance: $6,500 per cohort partner/year
+- Per-job token fee: $5 per job (AI usage)
+- Value-for-value pricing: Glaizr earns % of rework savings
+- Cohort model, not pure SaaS
 
-**Current Phase:** Cohort acquisition. 8-week MVP build kicks off once cohort is closed (deadline 30 June 2026).
+**Current Phase:** Cohort acquisition (V1 build starts 1 July 2026)
 
-**Key Partner — Onyx Showerscreens (Brisbane): CONFIRMED STRONG FIT.** $200-300K/month revenue, 80+ screens/month, 6-7% mismeasure rate (18-20% on splashbacks). Contacts: Bella (recovering from surgery) + Mike. Tech stack: ServiceM8, AroFlo (3yr deal locked), Xero, GroundPlan, Pivotech.
+**Next Milestone:** 
+- Onyx Showerscreens: PPA signature due 16 June 2026
+- Payment due 30 June 2026
+- Build Clock starts 1 July 2026
 
-**Next Milestones:**
-- **11 June 2026:** Nick's Brisbane in-person follow-up with Onyx
-- **16 June 2026:** Onyx confirmation + PPA signature due
-- **30 June 2026:** Payment due; cohort signup deadline
-- **1 July 2026:** Build Clock starts
-- Premium Showerscreens (Melbourne) — follow-up on exclusive vs cohort offer
-- Sequence post-V1 modules (balustrade, shopfront, doors, windows, splashback intelligence)
+**Key Partner — Onyx Showerscreens (Brisbane) — CONFIRMED:**
+- Revenue: $2.4-3.6M annualised
+- Volume: 80+ screens/month
+- Mismeasure rate: 6-7% (splashbacks 18-20%)
+- Status: PPA signature due 16 June. Payment due 30 June.
 
-**V1 Lock (from Onyx) — Non-Negotiable:**
-- Override & redraw capability (manual screen redraw for on-site design changes)
-- AroFlo + Xero + GroundPlan integrations
+**V1 Feature Lock — Override & Redraw (NON-NEGOTIABLE):**
+- Users must override AI-generated suggestions for on-site design changes
+- Manual redraw capability for steps, missing power points, etc.
+- Critical cost: ~$850/rework when not caught early
 
-**Open Issues:**
-- AroFlo + Xero integration scope for V1
-- Multi-stage scheduling (separating measure vs fit job phases)
-- Live project matrix / builder portal requirement
-- Token pricing model still being refined
-- Post-V1 module sequencing
+**Critical Integrations for V1:**
+- AroFlo (Onyx's $450/month, 7 users)
+- Xero (accounting)
+- GroundPlan ($140/month takeoff tool)
+
+**Blockers:**
+- V1 override/redraw capability (High priority, AltZero notified)
+- AroFlo + Xero integrations for V1 MVP
+- Multi-stage scheduling (measure vs fit as separate jobs)
+- Pricing for token usage still being modelled
 
 ---
-*Source of truth:* `nick-memory/01-memory/active-context/glaizr.md`. Full status: `D:\Claude Projects\01-active-context\glaizr-status.md`.
+**Last synced:** 2026-05-28
+**Source:** C:\Users\nickw\Documents\GitHub\nick-memory\01-memory\active-context\glaizr.md
