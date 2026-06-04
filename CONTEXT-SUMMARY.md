@@ -1,11 +1,7 @@
-﻿# Glaizr Context Summary
+# Glaizr Context Summary
 
 **Project:** AI-powered takeoff + site-measurement for Australian glass/glazier industry
 **Key People:** Nick (Owner), Courtney (AltZero), Narvan (AltZero technical), Dave Dhanda (dev)
-**Commercial Model:** Value-for-value (Glaizr earns % of rework savings)
-**Current Phase:** [See glaizr-status.md for details]
-**Next Milestone:** [See glaizr-status.md for details]
-**Key Partner:** [See glaizr-status.md for details]
-
----
-*Auto-generated: 2026-06-02*
+**Commercial Model:** Value-for-value — $12,500 onboarding + $6,500/yr maintenance + $5/job token fee; Glaizr earns proportion of rework savings
+**Current Phase:** Cohort acquisition (cohort of 10, signups deadline 30 June 2026)
+**Next Milestone:** Onyx PPA signature (1
